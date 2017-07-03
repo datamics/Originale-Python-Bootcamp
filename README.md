@@ -1,2 +1,2 @@
-# Komplette-Python-Grundlagen
-Alle Ressourcen zum Udemy Kurs "Komplette Python Grundlagen"
+# Original Python Bootcamp
+Alle Ressourcen zum Udemy Kurs "Original Python Bootcamp"
